@@ -1,6 +1,4 @@
 /*
- * AXEL DANIEL PADILLA REYES - A01642700
- * PABLO ESTEBAN REYES HERRERA - A01643307
  * SEBASTIAN GERRITSEN ORTIZ - A01643364
  * Network Infrastructure Planning and Analysis System
  * This program solves four distinct graph/computational geometry problems:
