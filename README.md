@@ -1,8 +1,6 @@
 # 📘 Network Infrastructure Planning and Analysis System
 
 **Authors:**
-- Axel Daniel Padilla Reyes - A01642700
-- Pablo Esteban Reyes Herrera - A01643307
 - Sebastián Gerritsen Ortiz - A01643364
 
 **Creation Date:** November 12, 2024
