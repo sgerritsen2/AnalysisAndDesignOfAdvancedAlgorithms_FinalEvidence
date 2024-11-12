@@ -1,2 +1,19 @@
-# AnalysisAndDesignOfAdvancedAlgorithms_FinalEvidence
-Final Evidence of Analysis and Design of Advanced Algorithms
+## Compilation
+
+```
+make
+```
+
+## Running
+
+With redirected input: 
+
+```
+./main << input.txt # note input.txt does not exist and must be created
+```
+
+Without redirected input (stdin):
+
+```
+./main
+```
